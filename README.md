@@ -39,7 +39,5 @@ Currently learning **Japanese (N5–N4)** and preparing for a **developer role i
 ---
 
 📫 **Contact**
-- GitHub: [your-username]
-- LinkedIn: [your-linkedin]
-- Portfolio: https://freedomadventures.com
-
+contact@theirfankhan.com
+irfankm.dev@gmail.com
