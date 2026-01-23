@@ -1,4 +1,4 @@
-# Irfan
+# Mohammad Irfan Khan
 
 Frontend Developer | React • Next.js
 
