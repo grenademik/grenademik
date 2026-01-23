@@ -33,7 +33,7 @@ Currently learning **Japanese (N5–N4)** and preparing for a **developer role i
 ---
 
 ## Selected Work
-- https://freedomadventures.com
+- https://freedomadventuretreks.com
 - https://himalayantrailrunning.com
 
 ---
