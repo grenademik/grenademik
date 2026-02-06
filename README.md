@@ -39,5 +39,4 @@ Currently learning **Japanese (N5–N4)** and preparing for a **developer role i
 ---
 
 📫 **Contact**
-contact@theirfankhan.com
 irfankm.dev@gmail.com
