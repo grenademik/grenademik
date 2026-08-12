@@ -1,42 +1,43 @@
-# Mohammad Irfan Khan
+# Hi, I'm Irfan — Frontend Engineer in Japan
 
-Frontend Developer | React • Next.js
+I build production **React / Next.js** apps: SSR sites, dashboards, payment flows, and browser tools that turn messy workflows into fast UIs.
 
----
-
-## About
-Frontend developer with **3+ years of experience** and a strong design background (**6 years as a freelance graphic designer**). I build clean, scalable, and user-focused web applications.
-
-Currently learning **Japanese (N5–N4)** and preparing for a **developer role in Japan**.
+📍 Toride, Ibaraki (Tokyo-reachable) · 🇯🇵 Japanese N4 → N3 · 🇬🇧 English fluent  
+🌐 Portfolio: [theirfankhan.com](https://www.theirfankhan.com)  
+✉️ irfankm.dev@gmail.com
 
 ---
 
-## Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, GitHub, PM2, Figma, Adobe Suite
+## Featured work
+
+| Project | Live | Stack |
+|---|---|---|
+| **ElevProf** — GPX → SVG elevation charts for trail runners | [elevprof.vercel.app](https://elevprof.vercel.app) | Next.js, SVG |
+| **Race Bib Generator** — design & export print-ready bibs in-browser | [racebib.vercel.app](https://racebib.vercel.app) | Next.js, SVG |
+| **Race tracking UI** | [tracking-next.vercel.app](https://tracking-next.vercel.app) · [repo](https://github.com/grenademik/tracking-next) | Next.js |
+| **Elevation Tattoo tool** — GPX to print-ready tattoo SVGs (hours → minutes) | [elevationtattoo.com](https://elevationtattoo.com) | Next.js |
+| **Himalayan Trail Running** — registration, payments, multi-role admin | [himalayantrailrunning.com](https://himalayantrailrunning.com) | React |
+| **Freedom Adventure Treks** — SSR rebuild + booking (Lighthouse ~40 → 90+) | [freedomadventuretreks.com](https://freedomadventuretreks.com) | Next.js |
+
+More case studies and UI work → **[theirfankhan.com](https://www.theirfankhan.com)**
 
 ---
 
-## Projects
-- **Freedom Adventures** – Production website for a Nepal-based adventure company (Next.js, responsive UI)
-- **Himalayan Trail Running** – Event-focused site with performance and SEO optimization
-- **Taqreer AI** – AI-based project (in progress)
+## Currently
+
+- Job hunting in Japan for **English-first / bilingual frontend** roles
+- Studying Japanese toward **N3**
+- Shipping small public tools for the trail-running / outdoor community
+
+## Stack
+
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind` `Framer Motion` `REST` `Vercel` `Figma` · familiar with `Django` / `Python`
 
 ---
 
+### How to review my work
+1. [theirfankhan.com](https://www.theirfankhan.com) — portfolio  
+2. Live demos above — product quality  
+3. Repos in this profile — implementation  
 
-## Focus
-- Frontend architecture & performance
-- Job-ready Japanese communication
-
----
-
-## Selected Work
-- https://freedomadventuretreks.com
-- https://himalayantrailrunning.com
-
----
-
-📫 **Contact**
-irfankm.dev@gmail.com
+Open to frontend roles in Greater Tokyo (hybrid/onsite).
