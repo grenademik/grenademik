@@ -14,7 +14,6 @@ I build production **React / Next.js** apps: SSR sites, dashboards, payment flow
 |---|---|---|
 | **ElevProf** — GPX → SVG elevation charts for trail runners | [elevprof.vercel.app](https://elevprof.vercel.app) | Next.js, SVG |
 | **Race Bib Generator** — design & export print-ready bibs in-browser | [racebib.vercel.app](https://racebib.vercel.app) | Next.js, SVG |
-| **Race tracking UI** | [tracking-next.vercel.app](https://tracking-next.vercel.app) · [repo](https://github.com/grenademik/tracking-next) | Next.js |
 | **Elevation Tattoo tool** — GPX to print-ready tattoo SVGs (hours → minutes) | [elevationtattoo.com](https://elevationtattoo.com) | Next.js |
 | **Himalayan Trail Running** — registration, payments, multi-role admin | [himalayantrailrunning.com](https://himalayantrailrunning.com) | React |
 | **Freedom Adventure Treks** — SSR rebuild + booking (Lighthouse ~40 → 90+) | [freedomadventuretreks.com](https://freedomadventuretreks.com) | Next.js |
